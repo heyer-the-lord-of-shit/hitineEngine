@@ -1,9 +1,8 @@
 # hitine engine v0.3
-includes v0.2 code
 
-# REQUIREMENTS: V0.3{VULKAN SDK AND SDL2(SDL3 IN THE FUTURE) SDK} V0.2{OPENGL,SDL2 SDK'S AND GLM}
+# REQUIREMENTS: V0.3{VULKAN SDK AND SDL2(SDL3 IN THE FUTURE) SDK}
 
-# API(v0.3):
+# API:
 files need to be included in main
 
 ## windowShenanigans:
