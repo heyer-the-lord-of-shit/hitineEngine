@@ -1,9 +1,9 @@
 # hitine engine v0.3
 
-# REQUIREMENTS: V0.3{VULKAN SDK AND SDL2(SDL3 IN THE FUTURE) SDK}
+# REQUIREMENTS: VULKAN AND SDL2 SDK
 
 # API:
-files need to be included in main
+include hitineEngine.cpp into main
 
 ## windowShenanigans:
 ### `initShit()` - initializes SDL2 
