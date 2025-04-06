@@ -15,7 +15,7 @@ include_directories(${SDL2_INCLUDE_DIRS} ${CMAKE_SOURCE_DIR}/include)
 
 
 # Add executable
-add_executable(hitineEngine src/main.cpp)
+add_executable(hitineEngine main.cpp)
 
 # Link libraries
 target_link_libraries(hitineEngine PRIVATE SDL2::SDL2)
